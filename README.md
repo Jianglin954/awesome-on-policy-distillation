@@ -25,14 +25,21 @@ On-policy distillation broadly refers to distilling a student policy **using tra
 
 - [*arXiv 2026*] **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation** [[PDF](https://arxiv.org/pdf/2602.12125)][[Code](https://github.com/RUCBM/G-OPD)]
 
+- [*arXiv 2026*] **On-Policy Context Distillation for Language Models** [[PDF](https://arxiv.org/pdf/2602.12275)]
+
+- [*arXiv 2026*] **Multi-Token Prediction via Self-Distillation** [[PDF](https://arxiv.org/pdf/2602.06019)]
+
 - [*arXiv 2026*] **Privileged Information Distillation for Language Models** [[PDF](https://arxiv.org/pdf/2602.04942)]
 
-- [*arXiv 2026*] **Reinforcement Learning via Self-Distillation** [[PDF](https://arxiv.org/pdf/2601.20802)][[Code](https://github.com/lasgroup/SDPO)]
+- [*arXiv 2026*] **OVD: On-policy Verbal Distillation** [[PDF](https://arxiv.org/pdf/2601.21968v1)][[Code](https://ovd.github.io/)]
 
+- [*arXiv 2026*] **Reinforcement Learning via Self-Distillation** [[PDF](https://arxiv.org/pdf/2601.20802)][[Code](https://github.com/lasgroup/SDPO)]
 
 - [*arXiv 2026*] **Self-Distillation Enables Continual Learning** [[PDF](https://arxiv.org/pdf/2601.19897)][[Code](https://github.com/idanshen/Self-Distillation)]
 
 - [*arXiv 2026*] **Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models** [[PDF](https://arxiv.org/pdf/2601.18734)]
+
+- [*arXiv 2026*] **Stable On-Policy Distillation through Adaptive Target Reformulation** [[PDF](https://arxiv.org/pdf/2601.07155)]
 
 - [*arXiv 2026*] **Black-Box On-Policy Distillation of Large Language Models** [[PDF](https://arxiv.org/pdf/2511.10643)][[Code](https://github.com/microsoft/LMOps/tree/main/gad)]
 
