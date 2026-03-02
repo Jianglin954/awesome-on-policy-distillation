@@ -13,11 +13,22 @@ On-policy distillation broadly refers to distilling a student policy **using tra
 
 ## Contents
 
+- [Contributing](#contributing)
 - [Papers (ordered by year)](#papers-ordered-by-year-ascending)
 - [Blog Posts and Tutorials](#blog-posts-and-tutorials)
-- [Contributing](#contributing)
 
 ---
+
+## Contributing
+
+Contributions to this repository are very welcome! If you have come across relevant resources, feel free to open an [Issue](https://github.com/Jianglin954/awesome-on-policy-distillation/issues), or submit a [Pull Requests](https://github.com/Jianglin954/awesome-on-policy-distillation/pulls):
+
+```
+- [*Conference/Journal Year*] **paper_name** [[PDF](link)][[Code](link)]
+```
+
+---
+
 
 ## Papers (ordered by year)
 
@@ -30,6 +41,8 @@ On-policy distillation broadly refers to distilling a student policy **using tra
 - [*arXiv 2026*] **Multi-Token Prediction via Self-Distillation** [[PDF](https://arxiv.org/pdf/2602.06019)]
 
 - [*arXiv 2026*] **Privileged Information Distillation for Language Models** [[PDF](https://arxiv.org/pdf/2602.04942)]
+
+- [*arXiv 2026*] **Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation** [[PDF](https://arxiv.org/pdf/2602.02994)]
 
 - [*arXiv 2026*] **OVD: On-policy Verbal Distillation** [[PDF](https://arxiv.org/pdf/2601.21968v1)][[Code](https://ovd.github.io/)]
 
@@ -67,18 +80,6 @@ On-policy distillation broadly refers to distilling a student policy **using tra
 - **On-Policy Distillation** (Thinking Machines Lab blog) [[Blog](https://thinkingmachines.ai/blog/on-policy-distillation/)]
 
 - **Unlocking On-Policy Distillation for Any Model Family** (HuggingFace blog) [[Blog](https://huggingface.co/spaces/HuggingFaceH4/on-policy-distillation)]
----
-
-## Contributing
-
-Contributions to this repository are very welcome! 
-
-If you have come across relevant resources, feel free to open an [Issue](https://github.com/Jianglin954/awesome-on-policy-distillation/issues), or submit a [Pull Requests](https://github.com/Jianglin954/awesome-on-policy-distillation/pulls):
-
-```
-- [*Conference/Journal Year*] **paper_name** [[PDF](link)][[Code](link)]
-```
-
 ---
 
 
