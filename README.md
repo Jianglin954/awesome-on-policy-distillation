@@ -7,7 +7,7 @@ awesome-on-policy-distillation
 
 On-policy distillation broadly refers to distilling a student policy **using trajectories sampled from the student itself**, while using a teacher as supervision (e.g., token-level KL, cross-entropy, or more general KL-constrained RL objectives). This list focuses on methods where the *student’s own rollouts* are central to the training signal.
 
-**Disclaimer:** This is a curated but **not exhaustive** list. Please open issues or PRs to add missing work.
+**Disclaimer:** This is a curated but **not exhaustive** list. Please open issues or PRs to add missing work (see Contributing).
 
 ---
 
@@ -19,32 +19,19 @@ On-policy distillation broadly refers to distilling a student policy **using tra
 
 ---
 
-## Papers (ordered by year, ascending)
+## Papers (ordered by year)
 
-- **Fast and Effective On-policy Distillation from Reasoning Prefixes** — *2026*  
-  *Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, Robert E. Tillman*  
-  [[arXiv](https://arxiv.org/abs/2602.15260)]
+- [*arXiv 2026*] **Fast and Effective On-policy Distillation from Reasoning Prefixes** [[PDF](https://arxiv.org/pdf/2602.15260)]
 
-- **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation (G-OPD / ExOPD)** — *2026*  
-  *Wenkai Yang, Weijie Liu, Ruobing Xie, Kai Yang, Saiyong Yang, Yankai Lin*  
-  [[arXiv](https://arxiv.org/abs/2602.12125)]
+- [*arXiv 2026*] **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation** [[PDF](https://arxiv.org/abs/2602.12125)][[Code](https://github.com/RUCBM/G-OPD)]
 
-- **Bootstrap Your Own Teacher: Online Policy Distillation for Multi-Game Reinforcement Learning** — *2025*  
-  *Authors as listed on IEEE Xplore*  
-  [[IEEE Xplore](https://ieeexplore.ieee.org/document/11114408)]
+- [*CoG 2025*] **Bootstrap Your Own Teacher: Online Policy Distillation for Multi-Game Reinforcement Learning** [[PDF](https://ieeexplore.ieee.org/document/11114408)]
 
-- **Distilling Policy Distillation** — *2019*  
-  *Wojciech M. Czarnecki, Razvan Pascanu, Simon Osindero, Siddhant M. Jayakumar, Grzegorz Świrszcz, Max Jaderberg*  
-  AISTATS 2019.  
-  [[PDF / PMLR](https://proceedings.mlr.press/v89/czarnecki19a/czarnecki19a.pdf)]
+- [*AISTATS 2019*] **Distilling Policy Distillation** [[PDF](https://proceedings.mlr.press/v89/czarnecki19a/czarnecki19a.pdf)]
 
-- **Kickstarting Deep Reinforcement Learning** — *2018*  
-  *Simon Schmitt, Jonathan J. Judson, Augustin Zidek, et al.*  
-  [[arXiv](https://arxiv.org/abs/1803.03835)]
+- [*arXiv 2018*] **Kickstarting Deep Reinforcement Learning** [[PDF](https://arxiv.org/abs/1803.03835)]
 
-- **Policy Distillation** — *2015*  
-  *Andrei A. Rusu, Sergio Gomez Colmenarejo, Caglar Gulcehre, et al.*  
-  [[arXiv](https://arxiv.org/abs/1511.06295)]
+- [*arXiv 2015*] **Policy Distillation** [[PDF](https://arxiv.org/abs/1511.06295)]
 
 ---
 
@@ -58,15 +45,13 @@ On-policy distillation broadly refers to distilling a student policy **using tra
 
 ## Contributing
 
-Contributions are very welcome!
+Contributions to this repository are very welcome! 
 
-- **Add missing papers**: especially new OPD variants, applications, or large-scale empirical studies.
-- **Improve categorization**: better tags (e.g., RL vs LMs, theory vs empirical, multi-teacher vs single-teacher).
+If you have come across relevant resources, feel free to open an [Issue](https://github.com/Jianglin954/awesome-on-policy-distillation/issues), or submit a [Pull Requests](https://github.com/Jianglin954/awesome-on-policy-distillation/pulls):
 
-Please:
-
-- Follow the existing **markdown style** and section structure.
-- Prefer **official links**.
+```
+- [*Conference/Journal Year*] **paper_name** [[PDF](link)][[Code](link)]
+```
 
 ---
 
