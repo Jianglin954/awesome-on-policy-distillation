@@ -13,7 +13,7 @@ On-policy distillation broadly refers to distilling a student policy **using tra
 
 ## Contents
 
-- [Papers (ordered by year, ascending)](#papers-ordered-by-year-ascending)
+- [Papers (ordered by year)](#papers-ordered-by-year-ascending)
 - [Blog Posts and Tutorials](#blog-posts-and-tutorials)
 - [Contributing](#contributing)
 
@@ -21,25 +21,29 @@ On-policy distillation broadly refers to distilling a student policy **using tra
 
 ## Papers (ordered by year)
 
+- [*arXiv 2026*] **Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models** [[PDF](https://arxiv.org/pdf/2601.18734)]
+
 - [*arXiv 2026*] **Fast and Effective On-policy Distillation from Reasoning Prefixes** [[PDF](https://arxiv.org/pdf/2602.15260)]
 
-- [*arXiv 2026*] **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation** [[PDF](https://arxiv.org/abs/2602.12125)][[Code](https://github.com/RUCBM/G-OPD)]
+- [*arXiv 2026*] **Black-Box On-Policy Distillation of Large Language Models** [[PDF](https://arxiv.org/pdf/2511.10643)][[Code](https://github.com/microsoft/LMOps/tree/main/gad)]
+
+- [*arXiv 2026*] **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation** [[PDF](https://arxiv.org/pdf/2602.12125)][[Code](https://github.com/RUCBM/G-OPD)]
+
+- [*arXiv 2025*] **VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation** [[PDF](https://arxiv.org/pdf/2510.23497)][[Code](https://walidbousselham.com/VOLD/)]
 
 - [*CoG 2025*] **Bootstrap Your Own Teacher: Online Policy Distillation for Multi-Game Reinforcement Learning** [[PDF](https://ieeexplore.ieee.org/document/11114408)]
 
 - [*AISTATS 2019*] **Distilling Policy Distillation** [[PDF](https://proceedings.mlr.press/v89/czarnecki19a/czarnecki19a.pdf)]
 
-- [*arXiv 2018*] **Kickstarting Deep Reinforcement Learning** [[PDF](https://arxiv.org/abs/1803.03835)]
+- [*arXiv 2018*] **Kickstarting Deep Reinforcement Learning** [[PDF](https://arxiv.org/pdf/1803.03835)]
 
-- [*arXiv 2015*] **Policy Distillation** [[PDF](https://arxiv.org/abs/1511.06295)]
+- [*arXiv 2015*] **Policy Distillation** [[PDF](https://arxiv.org/pdf/1511.06295)]
 
 ---
 
 ## Blog Posts and Tutorials
 
-- **On-Policy Distillation** (Thinking Machines Lab blog)  
-  Overview article explaining the intuition behind **on-policy distillation**, its advantages over off-policy fine-tuning (denser feedback from student trajectories, better distribution matching), and how OPD relates to KL-constrained RL.  
-  [[Blog](https://thinkingmachines.ai/blog/on-policy-distillation/)]
+- **On-Policy Distillation** (Thinking Machines Lab blog) [[Blog](https://thinkingmachines.ai/blog/on-policy-distillation/)]
 
 ---
 
