@@ -56,6 +56,7 @@ Contributions to this repository are very welcome! If you have come across relev
 
 - [*arXiv 2026*] **Black-Box On-Policy Distillation of Large Language Models** [[PDF](https://arxiv.org/pdf/2511.10643)][[Code](https://github.com/microsoft/LMOps/tree/main/gad)]
 
+- [*ICLR 2025*] **Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling** [[PDF](https://arxiv.org/pdf/2410.11325)][[Code](https://github.com/google-research/google-research/tree/master/speculative_kd)]
 
 - [*arXiv 2025*] **VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation** [[PDF](https://arxiv.org/pdf/2510.23497)][[Code](https://walidbousselham.com/VOLD/)]
 
@@ -66,6 +67,8 @@ Contributions to this repository are very welcome! If you have come across relev
 - [*ICLR 2024*] **MiniLLM: On-Policy Distillation of Large Language Models** [[PDF](https://arxiv.org/pdf/2306.08543)][[Code](https://github.com/microsoft/LMOps/tree/main/minillm)]
 
 - [*ICLR 2024*] **On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes** [[PDF](https://arxiv.org/pdf/2306.13649)]
+
+- [*arXiv 2022*] **Learning by Distilling Context** [[PDF](https://arxiv.org/pdf/2209.15189)]
 
 - [*AISTATS 2019*] **Distilling Policy Distillation** [[PDF](https://proceedings.mlr.press/v89/czarnecki19a/czarnecki19a.pdf)]
 
