@@ -65,6 +65,8 @@ Contributions to this repository are very welcome! If you have come across relev
 
 - [*arXiv 2025*] **VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation** [[PDF](https://arxiv.org/pdf/2510.23497)][[Code](https://walidbousselham.com/VOLD/)]
 
+- [*arXiv 2025*] **KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation and Reinforcement Learning** [[PDF](https://arxiv.org/pdf/2506.02208)]
+
 - [*COLING 2025*] **Distilling Rule-based Knowledge into Large Language Models** [[PDF](https://aclanthology.org/2025.coling-main.61.pdf)][[Code](https://github.com/RUCBM/rule-distillation)]![GitHub Repo stars](https://img.shields.io/github/stars/RUCBM/rule-distillation?style=social)
 
 
