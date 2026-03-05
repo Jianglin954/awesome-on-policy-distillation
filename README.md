@@ -21,7 +21,9 @@ On-policy distillation broadly refers to distilling a student policy **using tra
 
 ## Contributing
 
-Contributions to this repository are very welcome! If you have come across relevant resources, feel free to open an [Issue](https://github.com/Jianglin954/awesome-on-policy-distillation/issues), or submit a [Pull Requests](https://github.com/Jianglin954/awesome-on-policy-distillation/pulls):
+Contributions to this repository are very welcome! If you have come across relevant resources, feel free to open an [Issue](https://github.com/Jianglin954/awesome-on-policy-distillation/issues) or submit a [Pull Request](https://github.com/Jianglin954/awesome-on-policy-distillation/pulls).
+
+**Suggested format for new entries:**
 
 ```
 - [*Conference/Journal Year*] **paper_name** [[PDF](link)][[Code](link)]
@@ -34,9 +36,12 @@ Contributions to this repository are very welcome! If you have come across relev
 
 - [*arXiv 2026*] **Fast and Effective On-policy Distillation from Reasoning Prefixes** [[PDF](https://arxiv.org/pdf/2602.15260)]
 
-- [*arXiv 2026*] **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation** [[PDF](https://arxiv.org/pdf/2602.12125)][[Code](https://github.com/RUCBM/G-OPD)]
+- [*arXiv 2026*] **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation** [[PDF](https://arxiv.org/pdf/2602.12125)][[Code](https://github.com/RUCBM/G-OPD)]![GitHub Repo stars](https://img.shields.io/github/stars/RUCBM/G-OPD?style=social)
+
 
 - [*arXiv 2026*] **On-Policy Context Distillation for Language Models** [[PDF](https://arxiv.org/pdf/2602.12275)]
+
+- [*arXiv 2026*] **Expanding the Capabilities of Reinforcement Learning via Text Feedback** [[PDF](https://arxiv.org/pdf/2602.02482)][[Code](https://github.com/lili-chen/rltf)][[Website](https://rl-textfeedback.github.io/)]![GitHub Repo stars](https://img.shields.io/github/stars/lili-chen/rltf?style=social)
 
 - [*arXiv 2026*] **Multi-Token Prediction via Self-Distillation** [[PDF](https://arxiv.org/pdf/2602.06019)]
 
@@ -46,9 +51,9 @@ Contributions to this repository are very welcome! If you have come across relev
 
 - [*arXiv 2026*] **OVD: On-policy Verbal Distillation** [[PDF](https://arxiv.org/pdf/2601.21968v1)][[Code](https://ovd.github.io/)]
 
-- [*arXiv 2026*] **Reinforcement Learning via Self-Distillation** [[PDF](https://arxiv.org/pdf/2601.20802)][[Code](https://github.com/lasgroup/SDPO)]
+- [*arXiv 2026*] **Reinforcement Learning via Self-Distillation** [[PDF](https://arxiv.org/pdf/2601.20802)][[Code](https://github.com/lasgroup/SDPO)][[Website](https://self-distillation.github.io/SDPO)]![GitHub Repo stars](https://img.shields.io/github/stars/lasgroup/SDPO?style=social)
 
-- [*arXiv 2026*] **Self-Distillation Enables Continual Learning** [[PDF](https://arxiv.org/pdf/2601.19897)][[Code](https://github.com/idanshen/Self-Distillation)]
+- [*arXiv 2026*] **Self-Distillation Enables Continual Learning** [[PDF](https://arxiv.org/pdf/2601.19897)][[Code](https://github.com/idanshen/Self-Distillation)]![GitHub Repo stars](https://img.shields.io/github/stars/idanshen/Self-Distillation?style=social)
 
 - [*arXiv 2026*] **Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models** [[PDF](https://arxiv.org/pdf/2601.18734)]
 
@@ -60,7 +65,8 @@ Contributions to this repository are very welcome! If you have come across relev
 
 - [*arXiv 2025*] **VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation** [[PDF](https://arxiv.org/pdf/2510.23497)][[Code](https://walidbousselham.com/VOLD/)]
 
-- [*COLING 2025*] **Distilling Rule-based Knowledge into Large Language Models** [[PDF](https://aclanthology.org/2025.coling-main.61.pdf)][[Code](https://github.com/RUCBM/rule-distillation)]
+- [*COLING 2025*] **Distilling Rule-based Knowledge into Large Language Models** [[PDF](https://aclanthology.org/2025.coling-main.61.pdf)][[Code](https://github.com/RUCBM/rule-distillation)]![GitHub Repo stars](https://img.shields.io/github/stars/RUCBM/rule-distillation?style=social)
+
 
 - [*CoG 2025*] **Bootstrap Your Own Teacher: Online Policy Distillation for Multi-Game Reinforcement Learning** [[PDF](https://ieeexplore.ieee.org/document/11114408)]
 
