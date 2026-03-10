@@ -45,6 +45,8 @@ Contributions to this repository are very welcome! If you have come across relev
 
 - [*arXiv 2026*] **Multi-Token Prediction via Self-Distillation** [[PDF](https://arxiv.org/pdf/2602.06019)]
 
+- [*arXiv 2026*] **Reinforced Attention Learning** [[PDF](https://arxiv.org/pdf/2602.04884)]
+
 - [*arXiv 2026*] **Privileged Information Distillation for Language Models** [[PDF](https://arxiv.org/pdf/2602.04942)]
 
 - [*arXiv 2026*] **Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation** [[PDF](https://arxiv.org/pdf/2602.02994)]
