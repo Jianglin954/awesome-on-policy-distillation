@@ -38,6 +38,7 @@ Contributions to this repository are very welcome! If you have come across relev
 > Grouped by the **year in each line’s tag** (arXiv announcement date as `YYYY/MM/DD`, or the venue year for conference entries). Within each group, newer dates appear first.
 
 ### 2026
+- [*arXiv 2026/06/16*] **Learning from the Self-future: On-policy Self-distillation for dLLMs** [[PDF](https://arxiv.org/pdf/2606.18195)][[Code](https://github.com/xingzhejun/d-opsd-code)]
 - [*arXiv 2026/04/09*] **On-Policy Distillation of Language Models for Autonomous Vehicle Motion Planning** [[PDF](https://arxiv.org/pdf/2604.07944)]
 - [*arXiv 2026/04/09*] **PACED: Distillation and On-Policy Self-Distillation at the Frontier of Student Competence** [[PDF](https://arxiv.org/pdf/2603.11178)]
 - [*arXiv 2026/04/06*] **DP-OPD: Differentially Private On-Policy Distillation for Language Models** [[PDF](https://arxiv.org/pdf/2604.04461)]
